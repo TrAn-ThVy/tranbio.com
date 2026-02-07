@@ -1,5 +1,5 @@
 const songs = [
-    "Đen - một triệu like ft. Thành Đồng (MV).mp3"
+    "VSTRA - Ai Ngoài Anh.mp3"
 ];
 
 let currentSongIndex = 0;
