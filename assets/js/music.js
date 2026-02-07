@@ -1,5 +1,5 @@
 const songs = [
-    "VSTRA-Ai Ngoài Anh.mp3"
+    "VSTRA - Ai Ngoài Anh.mp3"
 ];
 
 let currentSongIndex = 0;
