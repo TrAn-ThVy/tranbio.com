@@ -1,5 +1,5 @@
 const songs = [
-    "Đen - một triệu like ft. Thành Đồng (MV).mp3"
+    "Đen - một triệu like ft. Thành Đồng (MV).mp"
 ];
 
 let currentSongIndex = 0;
