@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var closeButton = document.getElementById('close-button');
 
   var terminalTextContent = [
-      "Name: TrAn (Danny)",
+      "Name: TrAn (Chậu của ThVy)",
       "Your IP: Loading...",
       "Your System: Loading...",
       "Bio Loaded",
